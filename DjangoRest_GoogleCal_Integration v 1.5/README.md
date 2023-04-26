@@ -21,7 +21,7 @@ Here are the steps you can follow to create a Google Calendar API in the Google 
 
 7. Click on the "Create" button.
 
-8. Download the json file containing the credentials information ans save it as credentials.json this file will be used when signing in and validating the credentials.
+8. Download the json file containing the credentials information and save it as credentials.json this file will be used when signing in and validating the credentials.
 
 9. Once the OAuth client ID has been created, you'll be able to see the client ID and client secret in the "Credentials" tab.
 
