@@ -21,13 +21,15 @@ Here are the steps you can follow to create a Google Calendar API in the Google 
 
 7. Click on the "Create" button.
 
-8. Once the OAuth client ID has been created, you'll be able to see the client ID and client secret in the "Credentials" tab.
+8. Download the json file containing the credentials information ans save it as credentials.json this file will be used when signing in and validating the credentials.
 
-9. In the sidebar on the left, click on the "Library" button, then search for "Google Calendar API" and select it.
+9. Once the OAuth client ID has been created, you'll be able to see the client ID and client secret in the "Credentials" tab.
 
-10. Click on the "Enable" button to enable the Google Calendar API for your project.
+10. In the sidebar on the left, click on the "Library" button, then search for "Google Calendar API" and select it.
 
-11. You can now use the client ID and client secret to authenticate with the Google Calendar API in your application.
+11. Click on the "Enable" button to enable the Google Calendar API for your project.
+
+12. You can now use the client ID and client secret to authenticate with the Google Calendar API in your application.
 
 Note: Make sure you keep your client secret private and don't share it publicly. Also, you should keep the client id and secret in a secure place, like in a secure environment variable, or in a secure file.
 
